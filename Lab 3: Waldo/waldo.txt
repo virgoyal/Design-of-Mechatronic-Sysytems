@@ -1,0 +1,1 @@
+otion that can then be used to move an output that is typically similar in structure (though not necessarily in size) to the input device. Often it is called teleoperation or remote manipulation. It can be used in animatronics or also dangerous or challenging environments
